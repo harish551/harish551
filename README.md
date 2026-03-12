@@ -1,34 +1,34 @@
 # 👋 Hey, I'm Harish
 
 > _Backend ◦ Blockchain ◦ Media Infra ◦ Distributed Systems_
-
-Building the decentralized future one block, stream, and container at a time 🚀
-
 ---
 
 ## ⚡ About Me
-- 🛠 Senior Software Engineer crafting scalable backend + blockchain systems  
-- 🌍 Worked across **Cosmos & EVM** chains — validators, modules, smart contracts  
-- 🎥 Designed decentralized **media & streaming platforms** powered by FFmpeg  
+- 🛠 Senior Software Engineer crafting scalable backend + blockchain systems   
+- 🎥 Designed decentralized **media & streaming platforms** powered by FFmpeg
+- 🌍 Worked across **Cosmos & EVM** chains — validators, modules, smart contracts 
 - 🧑‍🤝‍🧑 Led teams delivering production-grade distributed systems  
 - ☕ Powered by code + chai + curiosity
 
 ---
 
 ## 🔭 What I Do
+### 🎞 Media Engineering
+- RTMP ingest / HLS outputs  
+- FFmpeg pipelines at scale  
+- Distributed media-nodes
+- 
 ### 🧱 Blockchain Engineering
 - Cosmos SDK modules  
 - Smart contracts (EVM/Solidity)  
 - Validator ops across networks  
 
-### 🎞 Media Engineering
-- RTMP ingest / HLS outputs  
-- FFmpeg pipelines at scale  
-- Distributed media-nodes 
+
 
 ---
 
 ## 🧰 Tech Toolbox
+`Node.js` • `Python` • `SQL` 
 `Golang` • `Cosmos-SDK` • `Solidity` • `FFmpeg` • `Docker` • `K8s`  
 `Postgres` • `Redis` • `Cloudflare` • `Nginx` • `CI/CD`  
 
