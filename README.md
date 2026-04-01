@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Harish
 
-> _Backend ◦ Blockchain ◦ Media Infra ◦ Distributed Systems_
+> _Backend Engineering ◦ Blockchain ◦ Media Infra ◦ Distributed Systems_
 ---
 
 ## ⚡ About Me
@@ -13,24 +13,23 @@
 ---
 
 ## 🔭 What I Do
-### 🎞 Media Engineering
+### 🎞 Backend Engineering
+- Microservices
+- Distributed Systems
 - RTMP ingest / HLS outputs  
-- FFmpeg pipelines at scale  
-- Distributed media-nodes
+- FFmpeg pipelines 
 - 
 ### 🧱 Blockchain Engineering
 - Cosmos SDK modules  
 - Smart contracts (EVM/Solidity)  
 - Validator ops across networks  
 
-
-
 ---
 
 ## 🧰 Tech Toolbox
 `Node.js` • `Python` • `SQL` 
 `Golang` • `Cosmos-SDK` • `Solidity` • `FFmpeg` • `Docker` • `K8s`  
-`Postgres` • `Redis` • `Cloudflare` • `Nginx` • `CI/CD`  
+`Postgres` • `Redis` • `Nginx` • `CI/CD`  
 
 ---
 
@@ -43,16 +42,4 @@
 
 ## 🌱 Learning
 - Rust 🦀
-
----
-
-## 🤝 Let's Build
-Always excited to collaborate on:
-- Open-source infra tooling  
-- Media protocols + p2p platforms  
-- Blockchain networks & node ops  
-
-📩 Drop a message → **harishmarri551@gmail.com**  
-🟦 Ping me → **linkedin.com/in/harish551**
-
 ---
